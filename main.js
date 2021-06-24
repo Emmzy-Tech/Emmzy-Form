@@ -17,7 +17,7 @@ closeYt.addEventListener('click', function(){
 //     e.preventDefault();
 // }
 function frameReload(){
-    window.location.reload(true);
+    window.location.reload();
 }
 btn.addEventListener('click', function(){
     spin.classList.toggle('spinning');

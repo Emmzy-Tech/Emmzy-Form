@@ -312,7 +312,7 @@ form{
 }
 .spinner.spinning .fa{
     font-size: 4rem;
-    color: #eee;
+    color: rgb(0, 134, 45);
     transition: all linear;
     animation: spin 1.2s linear infinite;
 }
